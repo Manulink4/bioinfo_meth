@@ -1,1 +1,2 @@
 meth_counts filter=lfs diff=lfs merge=lfs -text
+annotated_files filter=lfs diff=lfs merge=lfs -text
